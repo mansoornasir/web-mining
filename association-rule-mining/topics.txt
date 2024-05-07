@@ -1,0 +1,9 @@
+https://www.datacamp.com/tutorial/association-rule-mining-python
+
+https://towardsdatascience.com/apriori-association-rule-mining-explanation-and-python-implementation-290b42afdfc6
+
+https://medium.com/@anilcogalan/fp-growth-algorithm-how-to-analyze-user-behavior-and-outrank-your-competitors-c39af08879db#:~:text=implementation%20in%20Python.-,The%20FP%2Dgrowth%20algorithm%20is%20a%20popular%20method%20for%20mining,FP%2Dgrowth%20algorithm%20in%20Python.
+
+https://goldinlocks.github.io/Market-Basket-Analysis-in-Python/
+
+https://www.geeksforgeeks.org/implementing-apriori-algorithm-in-python/

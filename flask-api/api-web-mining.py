@@ -80,7 +80,7 @@ def get_rake():
     # print(r.get_ranked_phrases()[0:5])
 
     # To get keyword phrases ranked highest to lowest with scores.
-    return(r.get_ranked_phrases_with_scores()[0:5])
+    return(r.get_ranked_phrases_with_scores()[0:10])
 
 
 if __name__ == '__main__':

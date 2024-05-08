@@ -1,0 +1,2 @@
+https://spotintelligence.com/2023/01/16/document-clustering-in-python/
+https://dataknowsall.com/blog/textclustering.html

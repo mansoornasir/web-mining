@@ -72,7 +72,7 @@ def upload_image():
     # Assuming you want to save the image to a directory named 'uploads'
     # Make sure the 'uploads' directory exists
     # file.save('files/' + file.filename)
-    file.save('files/' + "digit.jpeg")
+    file.save('files/' + "digit.png")
 
     return jsonify({'message': 'File successfully uploaded'}), 200
 
